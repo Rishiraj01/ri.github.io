@@ -25,7 +25,7 @@ My own Azure resume, following [ACG project video](https://learn.acloud.guru/ser
 - Deployed Frontend folder to Azure Blob Storage via Visual Studio Code Extension: Azure Storage.
 - Updated CORS setting on Azure function to reflect URL of Azure Blog Storage.
 - Create Azure CDN for our Azure Blob Storage.
-- Added custom domain to CDN, [www.davisdre.me](https://www.davisdre.me).
+- Added custom domain to CDN.
 - Enable HTTPS on the Azure CDN.
 - Added my custom domain to CORS policy for Azure Function.
 
